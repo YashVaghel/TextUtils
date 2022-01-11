@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Textutils-Yash/static/css/main.31d6cfe0.css",
-    "main.js": "/Textutils-Yash/static/js/main.7c895e57.js",
-    "index.html": "/Textutils-Yash/index.html",
-    "main.7c895e57.js.map": "/Textutils-Yash/static/js/main.7c895e57.js.map"
+    "main.css": "/TextUtils/static/css/main.31d6cfe0.css",
+    "main.js": "/TextUtils/static/js/main.731d40cf.js",
+    "index.html": "/TextUtils/index.html",
+    "main.731d40cf.js.map": "/TextUtils/static/js/main.731d40cf.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.7c895e57.js"
+    "static/js/main.731d40cf.js"
   ]
 }
